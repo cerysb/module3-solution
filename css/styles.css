@@ -17,17 +17,13 @@ body {
 }
 
 .navbar-brand h1 { /* Restaurant name */
-  font-family: 'Lora', serif;
+  font-family: 'Oxygen', sans-serif;
   color: black;
-  font-size: 1.5em;
+  font-size: 16px;
   font-weight: bold;
   margin-top: 0;
   margin-bottom: 0;
  }
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
-}
-
-.navbar-brand p span { /* Star-K */
-  vertical-align: middle;
 }
