@@ -12,6 +12,10 @@ body {
   border: 0;
 }
 
+.navbar.navbar.default {
+	background-color: gray;
+}
+
 .navbar-brand {
   padding-top: 25px;
 }
@@ -23,6 +27,7 @@ body {
   font-weight: bold;
   margin-top: 0;
   margin-bottom: 0;
+  text-align: center;
  }
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
