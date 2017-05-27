@@ -1,7 +1,7 @@
 body {
   font-size: 16px;
   color: black;
-  background-color: gray;
+  background-color: white;
   font-family: 'Oxygen', sans-serif;
 }
 
@@ -32,6 +32,10 @@ body {
 .navbar-brand a:hover, .navbar-brand a:focus {
   text-decoration: none;
 }
+h2 {
+	font-size: 1.3em;
+	text-align: center;
+}
 
 .main-content {
 	background-color: gray;
@@ -43,10 +47,15 @@ body {
 .main-content p {
 	color: red;
 }
+#jumbotron {
+	border: black 1px;
+}
 
 /********** Large devices only **********/
 @media (min-width: 1200px) {
-
+	.jumbotron {
+		border: 2px solid #3F0C1F;
+	}
 }
 
 /********** Medium devices only **********/
