@@ -83,9 +83,9 @@ h3 {
 	background-color: #d6d6d6;
 	}
 	.navbar-toggle {
-		display: none;
+	display: none;
 	}
-		#nav-list {
+	#nav-list {
 	display: none;
 
 }
@@ -98,12 +98,10 @@ h3 {
 	background-color: #d6d6d6;
 	}
 	.navbar-toggle {
-		display: none;
+	display: none;
 	}
 	#nav-list {
-	display: none;
-}
-}
+	display: none;}
 
 
 /********** Extra small devices only **********/
