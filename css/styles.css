@@ -52,11 +52,15 @@ h3 {
 .collapsable-nav li {
 		background-color: yellow;
 	}
-	
+
 
 .navbar-toggle {
 	float: right;
 
+
+}
+li {
+	background-color: yellow;
 
 }
 
