@@ -5,10 +5,11 @@ body {
 }
 
 /** HEADER **/
-#header-nav {
+.header-nav {
   background-color: #928e8e;
   border-radius: 0;
   border: 0;
+  border-bottom: 5px black;
 }
 
 .navbar-brand {
