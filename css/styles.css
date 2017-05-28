@@ -6,7 +6,7 @@ body {
 
 /** HEADER **/
 #header-nav {
-  background-color: #928e8e;
+  background-color: #d6d6d6;
   border-radius: 0;
   border: 0;
   border-bottom: 5px black;
@@ -41,7 +41,7 @@ h2 {
 
 #chickendinner {
 	border: black 5px;
-	background-color: #928e8e;
+	background-color: #d6d6d6;
 }
 
 
