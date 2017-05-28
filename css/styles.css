@@ -10,6 +10,7 @@ body {
   border-radius: 0;
   border: 0;
   border-bottom: 5px black;
+  background-image: none;
 }
 
 .navbar-brand {
