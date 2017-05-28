@@ -47,11 +47,13 @@ h3 {
 
 .collapsable-nav {
 		float: right;
+		background-color: yellow;
 		}
 
 
 .navbar-toggle {
 	float: right;
+
 
 }
 
