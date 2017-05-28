@@ -34,13 +34,13 @@ h2 {
 
 
 
-.jumbotron {
+#chickendinner {
 	border: black 5px;
 	background-color: #928e8e;
 }
 
 
-.jumbotron p span h3 {
+.chickendinner p span h3 {
 	text-align: center;
 }
 
@@ -58,7 +58,7 @@ h2 {
 
 /********** Large devices only **********/
 @media (min-width: 1200px) {
-	.jumbotron {
+	.chickendinner {
 	border: black 5px;
 	background-color: #928e8e;
 	}
@@ -67,8 +67,8 @@ h2 {
 /********** Medium devices only **********/
 @media (min-width: 992px) and (max-width: 1199px) {
   /* Header */
-.jumbotron {
-	border: black 5px;
+.chickendinner {
+m	border: black 5px;
 	background-color: #928e8e;
 	}
 
@@ -77,7 +77,7 @@ h2 {
 
 /********** Small devices only **********/
 @media (min-width: 768px) and (max-width: 991px) {
-.jumbotron {
+.chickendinner {
 	border: black 5px;
 	background-color: #928e8e;
 	}
@@ -102,7 +102,7 @@ h2 {
     font-size: 1em;
     margin-right: 5px;
   }
-  #jumbotron {
+  #chickendinner {
 	border: black 5px;
 	background-color: #928e8e;
 
