@@ -41,13 +41,13 @@ h2 {
 }
 
 
-.chickendinner p span h3 {
+.chickendinner h3 {
 	text-align: center;
 }
 .collapsable-nav {
 		float: right;
 		}
-		
+
 
 #navbar-toggle {
 	float: right;
