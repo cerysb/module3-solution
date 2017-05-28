@@ -51,6 +51,15 @@ h2 {
 	border: black 1px;
 	background-color: #928e8e;
 }
+
+#chickendinner {
+	background-color: gray
+}
+
+.chickendinner p h3 {
+	text-align: center;
+}
+
 #navbar-toggle {
 
 }
