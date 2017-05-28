@@ -16,9 +16,6 @@ body {
 .navbar-brand {
   padding-top: 25px;
 }
-h1 {
-	font-size: 1.4em;
-}
 
 .navbar-brand h1 { 
   font-family: 'Calibri', sans-serif;
@@ -27,11 +24,10 @@ h1 {
   font-weight: bold;
   margin-top: 0;
   margin-bottom: 0;
+  margin-left: 6px;
   text-align: left;
  }
-.navbar-brand a:hover, .navbar-brand a:focus {
-  text-decoration: none;
-}
+
 h2 {
 	font-size: 1.3em;
 	text-align: center;
@@ -54,7 +50,7 @@ h3 {
 		}
 
 
-#navbar-toggle {
+.navbar-toggle {
 	float: right;
 
 }
@@ -72,8 +68,8 @@ h3 {
 	border: black 5px;
 	background-color: #928e8e;
 	}
-	.collapsable-nav {
-		display: none;
+	.navbar-toggle {
+	display: none;
 	}
 }
 
@@ -84,7 +80,7 @@ h3 {
 	border: black 5px;
 	background-color: #928e8e;
 	}
-	.collapsable-nav {
+	.navbar-toggle {
 		display: none;
 
   /* End Header */
