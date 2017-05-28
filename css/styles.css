@@ -74,6 +74,11 @@ h3 {
 	#nav-list {
 	display: none;
 }
+	.collapsable-nav {
+		float: right;
+		display: none;
+		}
+}
 
 /********** Medium devices only **********/
 @media (min-width: 992px) and (max-width: 1199px) {
@@ -87,6 +92,11 @@ h3 {
 	}
 	#nav-list {
 	display: none;
+}
+.collapsable-nav {
+		float: right;
+		display: none;
+		}
 
 }
   /* End Header */
@@ -102,7 +112,11 @@ h3 {
 	}
 	#nav-list {
 	display: none;}
-
+	.collapsable-nav {
+		float: right;
+		display: none;
+		}
+	}
 
 /********** Extra small devices only **********/
 @media (max-width: 767px) {
