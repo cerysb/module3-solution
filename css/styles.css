@@ -55,12 +55,23 @@ h3 {
 
 
 }
-li {
+li #odd {
 	background-color: #c0daff;
+
 		border-bottom: 1px black;
 		border-left: 1px black;
 		border-right: 1px black;
 		border-top: 1px black; 
+
+}
+li #even {
+
+		background-color: purple;
+		border-bottom: 1px black;
+		border-left: 1px black;
+		border-right: 1px black;
+		border-top: 1px black; 
+
 
 }
 
