@@ -54,12 +54,26 @@ h3 {
 	float: right;
 
 }
+
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
   border: 1px solid black;
 }
 .navbar-header button.navbar-toggle {
   clear: both;
   margin-top: -30px;
+}
+#nav-list {
+	margin-top: 10px;
+}
+#nav-list a {
+	color: green;
+	text-align: center;
+}
+#mav-list a:hover {
+	background: #E7E7E7;
+}
+#nav-list a span {
+	font-size: 1.5em;
 }
 
 /********** Large devices only **********/
@@ -123,6 +137,7 @@ h3 {
   /* Header */
   .navbar-brand {
     padding-top: 10px;
+    padding-left: 10px;
     height: 80px;
   }
   .navbar-brand h1 { 
@@ -137,7 +152,7 @@ h3 {
   	border-bottom: 2px;
   	border-left: 2px;
   	border-right: 2px;
-  	
+
   }
    
   #collapsable-nav a { /* Collapsed nav menu text */
