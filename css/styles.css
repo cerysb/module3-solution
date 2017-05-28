@@ -65,12 +65,10 @@ li {
 }
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
-  border: 1px solid black;
+  border: 3px solid black;
+  box-sizing: 10px
 }
-.navbar-header button.navbar-toggle {
-  clear: both;
-  margin-top: -30px;
-}
+
 #nav-list {
 	margin-top: 10px;
 }
