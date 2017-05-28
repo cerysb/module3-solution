@@ -34,7 +34,7 @@ h2 {
 
 
 
-#jumbotron {
+.jumbotron {
 	border: black 5px;
 	background-color: #928e8e;
 }
@@ -58,7 +58,7 @@ h2 {
 
 /********** Large devices only **********/
 @media (min-width: 1200px) {
-	#jumbotron {
+	.jumbotron {
 	border: black 5px;
 	background-color: #928e8e;
 	}
@@ -67,7 +67,7 @@ h2 {
 /********** Medium devices only **********/
 @media (min-width: 992px) and (max-width: 1199px) {
   /* Header */
-#jumbotron {
+.jumbotron {
 	border: black 5px;
 	background-color: #928e8e;
 	}
@@ -77,7 +77,7 @@ h2 {
 
 /********** Small devices only **********/
 @media (min-width: 768px) and (max-width: 991px) {
-#jumbotron {
+.jumbotron {
 	border: black 5px;
 	background-color: #928e8e;
 	}
