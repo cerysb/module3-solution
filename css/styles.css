@@ -129,6 +129,16 @@ h3 {
     padding-top: 10px;
     font-size: 5vw; /* 1vw = 1% of viewport width */
   }
+  .navbar-toggle {
+  	size: large;
+  	  }
+  #nav-list {
+  	text-align: center;
+  	border-bottom: 2px;
+  	border-left: 2px;
+  	border-right: 2px;
+  	
+  }
    
   #collapsable-nav a { /* Collapsed nav menu text */
     font-size: 1.2em;
