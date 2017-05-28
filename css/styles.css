@@ -19,7 +19,7 @@ body {
 .navbar-brand h1 { 
   font-family: 'Calibri', sans-serif;
   color: black;
-  font-size: 16px;
+  font-size: 1.3em;
   font-weight: bold;
   margin-top: 0;
   margin-bottom: 0;
@@ -44,6 +44,10 @@ h2 {
 .chickendinner p span h3 {
 	text-align: center;
 }
+.collapsable-nav {
+		float: right;
+		}
+		
 
 #navbar-toggle {
 	float: right;
@@ -63,15 +67,20 @@ h2 {
 	border: black 5px;
 	background-color: #928e8e;
 	}
+	.collapsable-nav {
+		display: none;
+	}
 }
 
 /********** Medium devices only **********/
 @media (min-width: 992px) and (max-width: 1199px) {
   /* Header */
 .chickendinner {
-m	border: black 5px;
+	border: black 5px;
 	background-color: #928e8e;
 	}
+	.collapsable-nav {
+		display: none;
 
   /* End Header */
 }
