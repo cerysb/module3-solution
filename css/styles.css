@@ -40,22 +40,17 @@ h2 {
 	background-color: gray;
 	color: black;
 }
-.main-content span h3 {
+.main-content p span h3 {
 	text-align: center;
 }
-.main-content p {
-	color: red;
-}
+
 #jumbotron {
 	border: black 1px;
 	background-color: #928e8e;
 }
 
-#chickendinner {
-	background-color: 928e8e; !important
-}
 
-.chickendinner span h3 {
+.jumbotron span h3 {
 	text-align: center;
 }
 
