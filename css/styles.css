@@ -1,7 +1,7 @@
 body {
   font-size: 16px;
   color: black;
-  background-color: #928e8e;
+  background-color: white;
   font-family: 'Calibri', sans-serif;
 }
 
@@ -53,10 +53,10 @@ h2 {
 }
 
 #chickendinner {
-	background-color: gray
+	background-color: 928e8e;
 }
 
-.chickendinner p h3 {
+.chickendinner span h3 {
 	text-align: center;
 }
 
