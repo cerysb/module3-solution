@@ -55,7 +55,7 @@ h3 {
 
 
 }
-li .odd {
+li  {
 		background-color: #c0daff;
 		border-bottom: 1px black;
 		border-left: 1px black;
@@ -63,16 +63,7 @@ li .odd {
 		border-top: 1px black; 
 
 }
-li .even {
 
-		background-color: purple;
-		border-bottom: 1px black;
-		border-left: 1px black;
-		border-right: 1px black;
-		border-top: 1px black; 
-
-
-}
 
 .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
   border: 3px solid black;
